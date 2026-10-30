@@ -1,0 +1,7 @@
+# P2PDF - Development, Testing & Build Dependencies
+# Includes core runtime dependencies plus automated test suite and executable packaging tools.
+-r requirements.txt
+pytest>=7.0.0
+pypdfium2>=4.0.0
+pyinstaller>=6.0.0
+

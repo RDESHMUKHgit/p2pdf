@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller & Build artifacts
+build/
+dist/
+*.spec
+version_info.txt
+*.exe
+*.zip
+*.tar.gz
+
+# Testing & Test Caches
+.pytest_cache/
+.coverage
+htmlcov/
+test_install_workspace/
+test_release_staging/
+
+# Internal Phase Reports & Working Notes
+PHASE_*.md
+
+# User-generated / Output PDFs
+*.pdf
+
+# Temporary files & logs
+*.tmp
+*.log
+
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
